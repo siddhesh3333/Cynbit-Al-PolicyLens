@@ -1,4 +1,4 @@
-# PolicyLens — AI Reply Checker
+# cynbit PolicyLens — AI Reply Checker
 
 **A small AI tool that checks whether a draft customer-support reply follows the official company policy.**
 
