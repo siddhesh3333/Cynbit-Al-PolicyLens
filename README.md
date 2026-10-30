@@ -1,7 +1,7 @@
 # cynbit PolicyLens — AI Reply Checker
 
 **A small AI tool that checks whether a draft customer-support reply follows the official company policy.**
-
+ **[Access the Live Application Here](https://cynbit.streamlit.app/)**
 ## The problem
 
 A customer-support chatbot might promise a 30-day return window even though the real policy allows returns only within 14 days. That answer may sound confident but be wrong.
